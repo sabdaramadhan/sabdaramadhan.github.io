@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+  }
+
+h5{
+    opacity: 80%;
+}
+
+p{
+    opacity: 60%;
+}
+
+.foto img {
+    width: 13%;
+    height: auto;
+  }
+
+
